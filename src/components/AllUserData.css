@@ -1,0 +1,16 @@
+.container{
+    width: 400px;
+    
+}
+
+.center{
+    margin: auto 150px;
+}
+.input-group-text{
+      padding: 20px;
+      height: 70px;
+}
+.input-group mb-3{
+      border: 3px, solid, red;
+
+}
